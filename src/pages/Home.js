@@ -66,7 +66,7 @@ function home() {
           <div className="col-md-4">
             <div>
               <img
-                src="./frame.svg"
+                src="./frames.svg"
                 alt=""
                 height="200"
                 className=" float-end w-100"

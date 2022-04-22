@@ -1,7 +1,7 @@
 const projectsdata= [
     {
         title: "SWOPLUX",
-        image: "./swopluxpic.png",
+        image: "./swopluxpics.png",
         description:
             "SwopLux is a subscription base platform for luxury vehicle Swopping. Its here that owners of high end and luxury brand cars will receive exclusive access to our network and enjoy a SwopLux.",
         link: "https://swoplux.s3.us-east-2.amazonaws.com/Swopluxs/index.html",
